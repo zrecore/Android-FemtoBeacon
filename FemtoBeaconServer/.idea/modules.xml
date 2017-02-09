@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FemtoBeaconServer.iml" filepath="$PROJECT_DIR$/FemtoBeaconServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Usb-serial-for-android/Usb-serial-for-android.iml" filepath="$PROJECT_DIR$/Usb-serial-for-android/Usb-serial-for-android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Usb-serial-for-android/usbSerialForAndroid/usbSerialForAndroid.iml" filepath="$PROJECT_DIR$/Usb-serial-for-android/usbSerialForAndroid/usbSerialForAndroid.iml" />
+    </modules>
+  </component>
+</project>
